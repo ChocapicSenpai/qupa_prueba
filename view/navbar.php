@@ -1,8 +1,10 @@
-<?php session_start();
+<!--
+  ?php session_start();
   if (!isset($_SESSION['user'])) {
     header('Location:login_usuario.php');
   }
 ?>
+-->
 <nav class="navbar navbar-expand-lg navbar-dark bg-header mb-2"style=" 
   position: relative;
   top: 0;

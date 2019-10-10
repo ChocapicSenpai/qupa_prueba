@@ -71,7 +71,7 @@
 
     </div>
   </div>
-  <script src="js/usuario.js"></script>
+  
 
 </body>
 
