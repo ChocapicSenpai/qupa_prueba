@@ -38,7 +38,7 @@ include("view/navbar.php");
             <div class="panel-body">
               <label for="uploadedFile">
                 <div id="img2">
-                  <img class="mx-auto d-block" id="img" src="images/organico.png">
+                  <img class="mx-auto d-block img_org" id="img" src="images/organico.png">
                     </label>
                 </div>
              <!-- <input type="file" name="uploadedFile" id="uploadedFile" accept="video/*" capture="camcorder">-->
