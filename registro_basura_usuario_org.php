@@ -62,6 +62,10 @@ include("view/navbar.php");
 
       </div>
 
+      <div class="d-flex mb-3 ">
+            <!-- <button type="submit" class="ml-auto btn btn-primary">Guardar incidencia</button> -->
+            <button type="button" id="btnLogin" class="btn btn-denuncia btn-block" onclick="location.href='registro_basura_usuario_org.php'"> Notificar </button>
+          </div>
 
       </form>
     </div>
